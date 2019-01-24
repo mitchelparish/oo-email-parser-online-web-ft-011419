@@ -1,5 +1,3 @@
-require 'csv'
-
 class EmailParser
   attr_accessor :emails
 
